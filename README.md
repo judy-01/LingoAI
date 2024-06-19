@@ -27,7 +27,7 @@ pip install tkinter
 ## Como Executar:
 Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/judy-01/LingoIA.git
 cd 
 ```
 ## Execute o script:
