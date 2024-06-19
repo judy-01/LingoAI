@@ -6,11 +6,11 @@
 
 
 ## Funcionalidades:
-Captura de áudio do microfone e transcrição para texto utilizando a biblioteca speech_recognition.
-Tradução do texto transcrito para outro idioma utilizando a API do Google através da biblioteca googletrans.
-Conversão do texto traduzido em fala para fornecer feedback auditivo usando a biblioteca gtts.
-Interface gráfica (GUI) simples criada com tkinter para seleção de idioma e controle das funcionalidades.
-Armazenamento do progresso do usuário em um banco de dados SQLite para acompanhamento futuro.
+- Captura de áudio do microfone e transcrição para texto utilizando a biblioteca speech_recognition.
+- Tradução do texto transcrito para outro idioma utilizando a API do Google através da biblioteca googletrans.
+- Conversão do texto traduzido em fala para fornecer feedback auditivo usando a biblioteca gtts.
+- Interface gráfica (GUI) simples criada com tkinter para seleção de idioma e controle das funcionalidades.
+- Armazenamento do progresso do usuário em um banco de dados SQLite para acompanhamento futuro.
 
 ## Pré-requisitos:
 > Python 3.x instalado.
@@ -28,7 +28,7 @@ pip install tkinter
 Clone o repositório:
 ```bash
 git clone https://github.com/judy-01/LingoIA.git
-cd 
+cd seuDiretorio
 ```
 ## Execute o script:
 ```bash
